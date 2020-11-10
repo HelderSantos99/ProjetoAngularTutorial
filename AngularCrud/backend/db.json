@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "teste form",
+      "price": "250",
+      "id": 5
+    },
+    {
+      "name": "Teste GET",
+      "price": "60",
+      "id": 7
+    },
+    {
+      "name": "Teste tabela",
+      "price": "27",
+      "id": 8
+    },
+    {
+      "name": "caneta preta",
+      "price": "2.50",
+      "id": 9
+    }
+  ]
+}
